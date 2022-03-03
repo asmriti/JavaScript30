@@ -19,4 +19,8 @@ const projects = [
     title: "Flex Panel Gallery",
     link: "05 - Flex Panel Gallery",
   },
+  {
+    title: "Type Ahead",
+    link: "06 - Type Ahead",
+  },
 ];
