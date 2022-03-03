@@ -1,0 +1,46 @@
+.container {
+  width: 80%;
+  margin: 30px auto;
+}
+
+body {
+  font-family: monospace;
+  background-color: #e0f2f1;
+}
+
+h1 {
+  color: #424242;
+}
+
+th {
+  font-size: 20px;
+  color: #616161;
+}
+
+tbody {
+  color: #607d8b;
+  font-size: 18px;
+}
+
+tr .table-row {
+  border-bottom: 1px solid black;
+}
+
+tbody a {
+  color: #607d8b;
+  text-decoration: none;
+}
+
+tbody a:hover {
+  color: rgb(172, 116, 33);
+}
+
+td {
+  padding: 10px 50px;
+  border: 1px solid #455a64;
+  border-radius: 8px;
+}
+
+td a {
+  margin-left: 20px;
+}
