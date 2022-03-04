@@ -12,7 +12,7 @@ const projects = [
     link: "03 - CSS Variables",
   },
   {
-    title: "Array Cardio",
+    title: "Array Cardio Day 1",
     link: "04 - Array Cardio Day 1",
   },
   {
@@ -22,5 +22,9 @@ const projects = [
   {
     title: "Type Ahead",
     link: "06 - Type Ahead",
+  },
+  {
+    title: "Array Cardio Day 2",
+    link: "07 - Array Cardio Day 2",
   },
 ];
