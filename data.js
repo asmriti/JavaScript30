@@ -27,4 +27,8 @@ const projects = [
     title: "Array Cardio Day 2",
     link: "07 - Array Cardio Day 2",
   },
+  {
+    title: "HTML Canvas",
+    link: "08 - Fun with HTML5 Canvas",
+  },
 ];
