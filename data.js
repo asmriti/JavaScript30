@@ -31,4 +31,8 @@ const projects = [
     title: "HTML Canvas",
     link: "08 - Fun with HTML5 Canvas",
   },
+  {
+    title: "Dev Tools Domination",
+    link: "09 - Dev Tools Domination",
+  },
 ];
