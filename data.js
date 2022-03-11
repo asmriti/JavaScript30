@@ -35,4 +35,8 @@ const projects = [
     title: "Dev Tools Domination",
     link: "09 - Dev Tools Domination",
   },
+  {
+    title: "Hold Shift and Check Checkboxes",
+    link: "10 - Hold Shift and Check Checkboxes",
+  },
 ];
