@@ -39,4 +39,8 @@ const projects = [
     title: "Hold Shift and Check Checkboxes",
     link: "10 - Hold Shift and Check Checkboxes",
   },
+  {
+    title: "Slide in on Scroll",
+    link: "13 - Slide in on Scroll",
+  },
 ];
