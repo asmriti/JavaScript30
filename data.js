@@ -43,4 +43,8 @@ const projects = [
     title: "Slide in on Scroll",
     link: "13 - Slide in on Scroll",
   },
+  {
+    title: "Mouse Move Shadow",
+    link: "16 - Mouse Move Shadow",
+  },
 ];
