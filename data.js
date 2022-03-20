@@ -47,4 +47,8 @@ const projects = [
     title: "Mouse Move Shadow",
     link: "16 - Mouse Move Shadow",
   },
+  {
+    title: "Whack A Mole",
+    link: "30 - Whack A Mole",
+  },
 ];
