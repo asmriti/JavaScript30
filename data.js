@@ -40,8 +40,16 @@ const projects = [
     link: "10 - Hold Shift and Check Checkboxes",
   },
   {
+    title: "Key Sequence Detection",
+    link: "12 - Key Sequence Detection",
+  },
+  {
     title: "Slide in on Scroll",
     link: "13 - Slide in on Scroll",
+  },
+  {
+    title: "JavaScript References Vs Copying",
+    link: "14 - JavaScript References VS Copying",
   },
   {
     title: "Mouse Move Shadow",
