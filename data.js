@@ -56,6 +56,10 @@ const projects = [
     link: "16 - Mouse Move Shadow",
   },
   {
+    title: "Sort Without Articles",
+    link: "17 - Sort Without Artcicles",
+  },
+  {
     title: "Whack A Mole",
     link: "30 - Whack A Mole",
   },
