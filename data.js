@@ -60,6 +60,10 @@ const projects = [
     link: "17 - Sort Without Artcicles",
   },
   {
+    title: "Adding Up Times with Reduce",
+    link: "18 - Adding Up Times with Reduce",
+  },
+  {
     title: "Whack A Mole",
     link: "30 - Whack A Mole",
   },
