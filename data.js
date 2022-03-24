@@ -64,6 +64,10 @@ const projects = [
     link: "18 - Adding Up Times with Reduce",
   },
   {
+    title: "Follow Along Link Highlighter",
+    link: "22 - Follow Along Link Highlighter",
+  },
+  {
     title: "Whack A Mole",
     link: "30 - Whack A Mole",
   },
