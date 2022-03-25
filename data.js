@@ -68,6 +68,10 @@ const projects = [
     link: "22 - Follow Along Link Highlighter",
   },
   {
+    title: "Event Capture, Propagation, Bubbling and Once",
+    link: "25 - Event Capture, Propagation, Bubbling and Once",
+  },
+  {
     title: "Whack A Mole",
     link: "30 - Whack A Mole",
   },
